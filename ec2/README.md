@@ -19,6 +19,7 @@
 ### Root CA
 #### Get Certificate
 `echo | openssl s_client -connect ssm.us-west-2.amazonaws.com:443 -proxy httpproxy:8080 2>&1 | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > cert.pem`
+
 ####Validate
 `openssl verify -verbose -CAfile /usr/local/share/ca-certificates/rootCA.crt cert.pem`
  
