@@ -8,7 +8,7 @@ In this quite simple approach, we use endpoint url mechanism for directly forwar
 
 ## About Me
 
-I am a full-blooded software engineer focused on AWS, Cloud, and building high-quality software. I like to learn programming languages and my belief is that multi-lingual language skills can help you to become a better programmer through learning from diverse language concepts. Further, I have interest in developing highly effective and efficient teams.
+I am a full-blooded software engineer focused on AWS, Cloud, and building high-quality software. I like to learn programming languages and my belief is that multi-lingual language skills can help you to become a better programmer through learning from diverse language concepts. Further, I have interest in developing highly effective and efficient teams by discovering and expanding the team members' talents.
 
 ## Disclaimer
 
